@@ -1,0 +1,3 @@
+| matrix size   | parameters                    |   gpu time |   scipy time | gpu result               | scipy result               | func result               |
+|:--------------|:------------------------------|-----------:|-------------:|:-------------------------|:---------------------------|:--------------------------|
+| (428, 320)    | {'gridX': 512, 'blockX': 512} |   7.45e-05 |    0.0076176 | ![Alt Text](out_gpu.bmp) | ![Alt Text](out_scipy.bmp) | ![Alt Text](out_func.bmp) |
